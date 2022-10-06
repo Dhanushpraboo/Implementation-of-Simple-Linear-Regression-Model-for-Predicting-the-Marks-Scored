@@ -50,7 +50,6 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 ![output](1.jpg)
 ![output](2.jpg)
 
